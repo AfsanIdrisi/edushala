@@ -385,7 +385,7 @@ footer .copyright p {
 .coursesCards {
   gap: 20px;
   margin-top: 4rem;
-  /* max-width: 1200px; */
+  max-width: 1200px;
   gap: 50px;
   flex-wrap: wrap;
 }
